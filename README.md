@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeisson-caylent
 - 👀 I’m interested in TI
-- 🌱 I’m currently learning DevOps and Cloud
+- 🌱 I’m currently working in DevOps and Cloud
 
 <!---
 jeisson-caylent/jeisson-caylent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
